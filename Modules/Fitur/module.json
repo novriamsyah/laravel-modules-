@@ -1,0 +1,13 @@
+{
+    "name": "Fitur",
+    "alias": "fitur",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Fitur\\Providers\\FiturServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
